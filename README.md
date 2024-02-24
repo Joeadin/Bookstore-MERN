@@ -1,13 +1,13 @@
 # MERN Stack Bookstore
 
-##Description
+Description
 This project is a simple bookstore built using the MERN stack 
 
-###Features
+Features
 Book Details View
 User Profile Management
 
-####Technologies Used
+Technologies Used
 MongoDB: NoSQL database to store book and user data.
 Express.js: Back-end web application framework.
 React.js: Front-end library for building user interfaces.
